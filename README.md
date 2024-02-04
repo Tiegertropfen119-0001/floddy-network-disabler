@@ -8,6 +8,12 @@
 - XMR : 475vC4AnXp4SWcM5yesBMySBjbr7E2EPC4u4eVDzM1fsH4PmpcRofamEQwNUzBWfHoS1ocMXncBTRg91pNvcnFwC8dQkp3J
 - RVN : RSdg7TnFZMLLKwdoCXMKMKVcSn3ZRDiTFp
 - LTC : LMihbSPVpDPLEj1EvFAc65wfY8vHUWoPVF
+## Sneak Peak
+![pic](https://github.com/Tiegertropfen119-0001/floddy-network-disabler/blob/main/img/video.gif)
+
+### Phone Image
+![pic](https://github.com/Tiegertropfen119-0001/floddy-network-disabler/blob/main/img/phone.jpg)
+
 
 ## What is that ?
 
