@@ -11,7 +11,7 @@
 ## Sneak Peak
 ![pic](https://github.com/Tiegertropfen119-0001/floddy-network-disabler/blob/main/img/video.gif)
 
-### Phone Image
+### Phone Image (Ping to Router) 
 ![pic](https://github.com/Tiegertropfen119-0001/floddy-network-disabler/blob/main/img/phone.jpg)
 
 
